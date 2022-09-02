@@ -1,13 +1,21 @@
-# Critical Computation Lab (Section A) Fall 2022
+# Critical Computation Lab Fall 2022
 
 [MFA Design and Technology](http://www.newschool.edu/parsons/mfa-design-technology/), [Parsons School of Design](http://www.newschool.edu/parsons/).
 
 
-[Critical Computation Lab - PGTE 5251 - C (MFA Design + Technology)
+[Critical Computation Lab - PGTE 5251 - Section C (MFA Design + Technology)
 ](https://courses.newschool.edu/courses/PGTE5251/) 
 
 * **Course Dates and Times:**  Fridays 9:00 am - 11:40 am
 * **Location:** 6 East 16th Street, Room 1205
+
+[Critical Computation Lab - PUDT 2109 - Section B (BFA Design + Technology)
+](https://courses.newschool.edu/courses/PUDT2109/) 
+
+* **Course Dates and Times:**  Thursdays 9:00 am - 11:40 am
+* **Location:** Academic Entrance 63 Fifth Ave, Room 200
+
+
 * **Faculty:** [Regina Flores Mir](http://www.reginafloresmir.com/)
 * **Faculty e-mail:** [regina.flores@newschool.edu](mailto:regina.flores@newschool.edu)
 
@@ -29,7 +37,8 @@ For a full description of each class, see each week's folder.
 | class # | Date | CC Lab |
 |:--- |:--- |:--- |
 | 1 | Sep 2 | Welcome to p5.js | 
-| 2 | Sep 9 | Labor Day: Week of review and setup |
+| 2 | Sep 9 | Labor Day: Week of review and setup | 
+
 | 3 | Sep 16 | Variables, Parameters, and Randomness | 
 | 4 | Sep 23 | Conditionals, Processes, and Algorithms | 
 | 5 | Sep 30 | Modularity, Reusability, and Utilitarianism: Functions | 
