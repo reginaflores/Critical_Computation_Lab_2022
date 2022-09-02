@@ -14,8 +14,7 @@
 
 * **Course Dates and Times:**  Thursdays 9:00 am - 11:40 am
 * **Location:** Academic Entrance 63 Fifth Ave, Room 200
-
-
+---
 * **Faculty:** [Regina Flores Mir](http://www.reginafloresmir.com/)
 * **Faculty e-mail:** [regina.flores@newschool.edu](mailto:regina.flores@newschool.edu)
 
