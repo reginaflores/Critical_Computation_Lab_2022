@@ -36,9 +36,8 @@ For a full description of each class, see each week's folder.
 | class # | Date | CC Lab |
 |:--- |:--- |:--- |
 | 1 | Sep 2 | Welcome to p5.js | 
-| 2 | Sep 9 | Labor Day: Week of review and setup | 
-
-| 3 | Sep 16 | Variables, Parameters, and Randomness | 
+| 2 | Sep 9 | Labor Day: Week of review and setup |
+| 3 | Sep 16 | Variables, Parameters, and Randomness |
 | 4 | Sep 23 | Conditionals, Processes, and Algorithms | 
 | 5 | Sep 30 | Modularity, Reusability, and Utilitarianism: Functions | 
 | 6 | Oct 7 | Illusion as Tactics: Loops | 
