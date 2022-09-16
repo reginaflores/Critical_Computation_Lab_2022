@@ -1,5 +1,5 @@
 
-# Week 1
+# Week 1: p5js Intro, Shapes and Colors
 
 * Hello!
 * Syllabus / Community Agreement / Discord Channels

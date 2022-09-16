@@ -1,5 +1,5 @@
 
-# Week 3
+# Week 3: Variables, Parameters, and Randomness
 
 * Variables:
 	* Global variables vs Local Variables**
@@ -21,6 +21,14 @@
 * System States:
 	* mouseIsPressed, etc. 
 
+
+
+## Parametric Design Precedents:
+
+* https://www.syedrezaali.com/#/a-drifting-up/
+* https://www.syedrezaali.com/#/2d-supershapes/
+* https://n-e-r-v-o-u-s.com/projects/albums/kinematics-apps/content/kinematics/
+* https://n-e-r-v-o-u-s.com/blog/?p=4415
 
 
 
