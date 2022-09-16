@@ -1,5 +1,5 @@
 
-#Week 1
+# Week 1
 
 * Hello!
 * Syllabus / Community Agreement / Discord Channels
