@@ -17,8 +17,10 @@
 ---
 * **Faculty:** [Regina Flores Mir](http://www.reginafloresmir.com/)
 * **Faculty e-mail:** [regina.flores@newschool.edu](mailto:regina.flores@newschool.edu)
+---
+[CC Lab 2022 Course Website](https://parsonsdt.github.io/critical-computation-2022/index.html)  
+[CC Lab 2022 Course Syllabus](https://docs.google.com/document/d/1r89s9uilE6eYASnkmAXnP3Z9lmzqW2ZwpUNUWqvv01M/edit#).
 
-Read the complete syllabus [here](https://docs.google.com/document/d/1r89s9uilE6eYASnkmAXnP3Z9lmzqW2ZwpUNUWqvv01M/edit#).
 ---
 
 ## Course Description
@@ -83,11 +85,17 @@ You will use this [Glitch template](https://glitch.com/~code-portfolio-template)
 ## Required Tools
 
 * [Glitch Account](https://glitch.com/)
-
-Advanced:
-
 * [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * [Sublime Text](http://www.sublimetext.com/)
 * Terminal (Mac) / Command Prompt (PC)
 * A [Github account](https://github.com/) and a way to access it. Feel free to either Terminal or a desktop app — [Github for Mac](https://desktop.github.com/), [Source Tree](https://www.sourcetreeapp.com/) or whatever you feel comfortable with.
+
+## Resources
+
+* [Critical Coding Cookbook: Intersectional Approaches to Teaching and Learning](https://criticalcode.recipes/)
+
+
+
+
+
 
