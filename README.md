@@ -93,7 +93,7 @@ You will use this [Glitch template](https://glitch.com/~code-portfolio-template)
 ## Resources
 
 * [Critical Coding Cookbook: Intersectional Approaches to Teaching and Learning](https://criticalcode.recipes/)
-
+* [p5 Live](https://teddavis.org/p5live/)
 
 
 
