@@ -94,8 +94,8 @@ You will use this [Glitch template](https://glitch.com/~code-portfolio-template)
 
 * [Critical Coding Cookbook: Intersectional Approaches to Teaching and Learning](https://criticalcode.recipes/)
 * [p5 Live](https://teddavis.org/p5live/)
-
-
+* [Python Crash Course](https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html)
+* [Python Simple Server](https://www.digitalocean.com/community/tutorials/python-simplehttpserver-http-server)
 
 
 
