@@ -1,6 +1,7 @@
 //**************p5js code***********//
 //Created: Sep 2022
 //Author: Regina Flores
+//Language: p5.js
 //////////////////////////////////////
 
 
