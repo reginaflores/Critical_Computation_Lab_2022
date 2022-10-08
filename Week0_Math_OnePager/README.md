@@ -5,11 +5,11 @@
 ---
 * **Simple Moving Equations:** 
 
- location = location + velocity
+ 	location = location + velocity
 
- velocity = velocity + acceleration
+ 	velocity = velocity + acceleration
 
- *Change direction by multiplying velocity by -1.*
+ 	*Change direction by multiplying velocity by -1.*
 
 ---
 * **Polar Coordinates:**  
