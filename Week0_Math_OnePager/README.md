@@ -24,18 +24,28 @@ x = amplitude * cos(TWO_PI * frameCount / period);
 ---
 * **Lines:** 
 
-vertical lines:
-line(x, 0, x, height);  
+*let lineDist be the distance between the lines*
 
-horizontal lines:
-line(0, y, width, y);
+```
 
-Diagonal lines:
-right diagonal: line(x, y, x - lineDist, y + lineDist) 
+ for (let x = 0; x < width ; x += lineDist) {
+  for (let y = 0; y < height; y += lineDist){
 
-left diagonal: line(x, y, x + lineDist, y + lineDist);
+	//vertical lines:
+	line(x, 0, x, height);  
 
-*where lineDist is the distance between the lines.*
+	//horizontal lines:
+	line(0, y, width, y);
+
+	//Diagonal lines:
+	//right diagonal: 
+	line(x, y, x - lineDist, y + lineDist) 
+
+	//left diagonal: 
+	line(x, y, x + lineDist, y + lineDist);
+
+```
+
 
 ---
 * **Individual Pixel:** 
