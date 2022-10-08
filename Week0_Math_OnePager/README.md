@@ -22,6 +22,22 @@
 x = amplitude * cos(TWO_PI * frameCount / period);
 
 ---
+* **Lines:** 
+
+vertical lines:
+line(x, 0, x, height);  
+
+horizontal lines:
+line(0, y, width, y);
+
+Diagonal lines:
+right diagonal: line(x, y, x - lineDist, y + lineDist) 
+
+left diagonal: line(x, y, x + lineDist, y + lineDist);
+
+*where lineDist is the distance between the lines.*
+
+---
 * **Individual Pixel:** 
 
 pixel = (x + (y * width))* 4
