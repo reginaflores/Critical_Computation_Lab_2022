@@ -13,13 +13,13 @@
 ---
 * **Polar Coordinates:**  
  
- x = r * cos(theta);
- y = r * sin(theta);
+ 	x = r * cos(theta);
+ 	y = r * sin(theta);
 
 ---
 * **Simple Harmonic Motion/Oscillations:** 
 
-x = amplitude * cos(TWO_PI * frameCount / period);
+	x = amplitude * cos(TWO_PI * frameCount / period);
 
 ---
 * **Lines:** 
@@ -53,7 +53,7 @@ let lineDist = 10;
 ---
 * **Individual Pixel:** 
 
-pixel = (x + (y * width))* 4
+	pixel = (x + (y * width))* 4
  
 ---
 
