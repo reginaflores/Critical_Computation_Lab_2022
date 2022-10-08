@@ -27,22 +27,25 @@ x = amplitude * cos(TWO_PI * frameCount / period);
 *let lineDist be the distance between the lines*
 
 ```
+let lineDist = 10;
 
  for (let x = 0; x < width ; x += lineDist) {
-  for (let y = 0; y < height; y += lineDist){
+  	for (let y = 0; y < height; y += lineDist){
 
-	//vertical lines:
-	line(x, 0, x, height);  
+		//vertical lines:
+		line(x, 0, x, height);  
 
-	//horizontal lines:
-	line(0, y, width, y);
+		//horizontal lines:
+		line(0, y, width, y);
 
-	//Diagonal lines:
-	//right diagonal: 
-	line(x, y, x - lineDist, y + lineDist) 
+		//Diagonal lines:
+		//right diagonal: 
+		line(x, y, x - lineDist, y + lineDist); 
 
-	//left diagonal: 
-	line(x, y, x + lineDist, y + lineDist);
+		//left diagonal: 
+		line(x, y, x + lineDist, y + lineDist);
+	}
+ }	
 
 ```
 
