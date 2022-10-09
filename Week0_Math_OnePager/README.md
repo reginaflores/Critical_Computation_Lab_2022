@@ -53,9 +53,9 @@ let lineDist = 10;
 
 
 ---
-* **Retrieve an Individual Pixel:** 
+* **Index of an Individual Pixel in the Pixel Array pixels[]:** 
 
-	pixel = (x + (y * width))* 4
+	pixel_index = (x + (y * width))* 4
  
 ---
 
