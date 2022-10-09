@@ -15,7 +15,7 @@
 * **Polar Coordinates:**  
  
  	x = r * cos(theta);
- 	
+
  	y = r * sin(theta);
 
 ---
@@ -53,7 +53,7 @@ let lineDist = 10;
 
 
 ---
-* **Individual Pixel:** 
+* **Retrieve an Individual Pixel:** 
 
 	pixel = (x + (y * width))* 4
  

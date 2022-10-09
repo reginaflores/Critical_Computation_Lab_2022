@@ -24,7 +24,7 @@ function draw() {
       // and use it to create the diameter
       let index = (y * video.width + x) * 4;
       let r = video.pixels[index];
-  
+    
 
       let dia = map(r, 0,255, ballDist,5);
       
