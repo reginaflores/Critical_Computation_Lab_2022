@@ -92,11 +92,13 @@ You will use this [Glitch template](https://glitch.com/~code-portfolio-template)
 
 ## Resources
 
+* [Dan Shiffman Learn p5js](https://github.com/shiffman/LearningProcessing-p5.js)
+* [Dan Shiffman Coding Train Examples](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
 * [Critical Coding Cookbook: Intersectional Approaches to Teaching and Learning](https://criticalcode.recipes/)
 * [Form and Code](http://formandcode.com/code-examples/)
 * [p5 Live](https://teddavis.org/p5live/)
 * [Python Crash Course](https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html)
 * [Python Simple Server](https://www.digitalocean.com/community/tutorials/python-simplehttpserver-http-server)
-
+* [Creative Coding Notes](https://creative-coding.decontextualize.com/)
 
 

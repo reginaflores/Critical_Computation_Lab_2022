@@ -54,9 +54,14 @@ let lineDist = 10;
 
 ---
 * **Index of an Individual Pixel in the Pixel Array pixels[]:** 
-
+	```
 	pixel_index = (x + (y * width))* 4
- 
+	 red   = img.pixels[pindex + 0];
+     green = img.pixels[pindex + 1];
+     blue  = img.pixels[pindex + 2];
+     alpha = img.pixels[pindex + 3];
+
+ 	```
 ---
 
 

@@ -3,7 +3,7 @@ let video;
 
 function setup() {
   createCanvas(400, 400);
-  video = createCapture(VIDEO); //640x480 == DEFAULT RESOLUTION OF YOUR CAMERA
+  video = createCapture(VIDEO); 
   video.size(400, 400);
   video.hide();
 
@@ -18,7 +18,7 @@ function draw() {
     for (let y=0; y<video.height; y+=10) {
       for (let x=0; x<video.width; x+=10) {
       
-        //this is the index of the array
+        //this is the index of the pixels[] array
         let p = (x + (y * video.width))* 4;
         //this is the value inside the index
         let rchannel = video.pixels[p]; //this is just an R value between 0 and 255
@@ -29,9 +29,14 @@ function draw() {
         // console.log(video.pixels.length);
 
         //map the R value to a size to use in an object
-        let size = map(rchannel, 0, 255, 5, 10);
+        //let size = map(rchannel, 0, 255, 5, 10);
 
-        rect(x, y, size, size);
+        let r = video.pixels[rchannel+0];
+        let g = video.pixels[rchannel+1];
+        let b =  video.pixels[rchannel+2];
+
+        fill(r, g, b);
+        rect(x, y, 25, 25);
 
     }
   }
