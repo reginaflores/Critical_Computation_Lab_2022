@@ -1,3 +1,4 @@
+//Version 2:
 
 let myData; 
 let yStart = 0; //starting position of the text wall
@@ -34,6 +35,8 @@ function draw() {
   yStart++; 
 }
 
+
+//Version 1:
 // let myData;
 // function preload() {
 //   myData = loadJSON('data/history.json');
