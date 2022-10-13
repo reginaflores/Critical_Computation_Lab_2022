@@ -2,6 +2,7 @@
 # Week 7: Data Portrait (Arrays)
 
 * Arrays
+* loadJSON() - loads a JSON file
 * loadPixels() - Loads the pixel data into the pixels[] array
 * preload() - Runs before setup() and loads files
 * createCapture() - get the webcam
