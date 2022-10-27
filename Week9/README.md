@@ -3,6 +3,7 @@
 
 * Classes & Objects II - Object Communication
 	* Collision Detection
+* Class Inheritance
 * Mouse & Key Inputs:
 	* mousePressed(), mouseIsPressed, keyPressed(), keyIsDown(), keyIsPressed
 * Switch Statement - Changing Scenes!
