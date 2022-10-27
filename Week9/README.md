@@ -1,8 +1,10 @@
 
-# Week 8: Objects and Classes
+# Week 9: Objects and Classes and Inheritance
 
-* Classes & objects
-* Constructors, member variables, methods
-* Dot operator, this, new
+* Classes & objects II - Object Communication
+	** Collision Detection
+* Mouse & Key Inputs:
+ 	** mousePressed(), mouseIsPressed, keyPressed(), keyIsDown(), keyIsPressed
+* Switch Statement - Changing Scenes!
 
 
