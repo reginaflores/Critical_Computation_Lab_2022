@@ -4,7 +4,7 @@
 ** Student Process Blogs:
 
 
-** MFA 
+## MFA 
 
 * [Isha](https://ccportfolio-isha.glitch.me/p7-part1.html)
 * [Nikunj](https://cclab-nik.glitch.me/p7.html)
@@ -22,7 +22,7 @@
 
 
 
-** BFA
+## BFA
 
 
 
