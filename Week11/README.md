@@ -1,8 +1,7 @@
 
 # Week 11: Autobiographical Game Work Week
 
-** Student Process Blogs:
-
+Students worked on a 4 week project to create a narrative story or game.
 
 ## MFA 
 
