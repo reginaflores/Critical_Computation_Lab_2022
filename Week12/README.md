@@ -14,6 +14,7 @@
 * [clmtrkr.js](https://github.com/auduno/clmtrackr)
 * [Fitting faces, An explanation of clmtrackr](https://www.auduno.com/2014/01/05/fitting-faces/)
 * [Library Ref Guide](https://www.auduno.com/clmtrackr/docs/reference.html)
+* [Example](https://editor.p5js.org/reginaflores/sketches/gathYEqmK)
 
 **References:**
 * http://www.katehollenbach.com/user-is-present/
