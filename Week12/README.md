@@ -1,9 +1,7 @@
 
 # Week 12: Artificial Sensing
 
-## Computer Vision and Biometric Surveillance
-## Glitch Art
-## Data Photography
+## Computer Vision and Biometric Surveillance / Glitch Art / Data Photography
 
 
 **Code Topics:**
