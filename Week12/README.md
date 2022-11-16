@@ -1,7 +1,7 @@
 
 # Week 12: Artificial Sensing
 
-## Computer Vision and Biometric Surveillance / Glitch Art / Data Photography
+## Computer Vision / Biometric Surveillance / Glitch Art / Data Photography
 
 
 **Code Topics:**
@@ -10,28 +10,28 @@
 * loadPixels()
 * Pixel Array
 
-External Libraries clmtrkr.js:
+**External Libraries clmtrkr.js:**
 * [clmtrkr.js](https://github.com/auduno/clmtrackr)
 * [Fitting faces, An explanation of clmtrackr](https://www.auduno.com/2014/01/05/fitting-faces/)
 * [Library Ref Guide](https://www.auduno.com/clmtrackr/docs/reference.html)
 
-References:
+**References:**
 * http://www.katehollenbach.com/user-is-present/
 * https://cyberwitch666.github.io/Gaze-Makes-The-Glitch/
 * https://shrub.ooo/
 * https://zachblas.info/works/facial-weaponization-suite/
-* Adam Ferriss: - https://adamferriss.com/merge/
-				- https://adamferriss.com/multix/
-				- https://www.adamferriss.com/sheeting/
-				- https://www.adamferriss.com/gush/
+* Adam Ferriss: 
+	- https://adamferriss.com/merge/
+	- https://adamferriss.com/multix/
+	- https://www.adamferriss.com/sheeting/
+	- https://www.adamferriss.com/gush/
 * https://glanceback.info/
 * https://experiments.withgoogle.com/collection/ar
 * https://zachlieberman.medium.com/m%C3%A1s-que-la-cara-overview-48331a0202c0
 * https://paglen.studio/2020/04/09/they-took-the-faces-from-the-accused-and-the-dead/
 
 
-Resources:
-
+**Resources:**
 * https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2
 * https://editor.p5js.org/kylemcdonald/sketches/BJOcyD9hm
 * https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5
